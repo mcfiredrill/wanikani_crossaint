@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+
+  "name": "WaniKani Crossaint",
+  "description": "Add example sentences to wanikani",
+  "version": "0.1",
+
+  "permissions": [
+    "https://wanikani.com/"
+  ]
+}
